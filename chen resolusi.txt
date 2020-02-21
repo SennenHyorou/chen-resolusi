@@ -2,3 +2,4 @@ Resolusi tahun 2020
 - Konsisten belajar programming
 - Belajar design web, belajar pakai template
 - Kurangin main TAC :) 
+- Belajar bootstrap
