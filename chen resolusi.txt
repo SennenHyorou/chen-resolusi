@@ -1,5 +1,0 @@
-Resolusi tahun 2020
-- Konsisten belajar programming
-- Belajar design web, belajar pakai template
-- Bagi waktu untuk TAC
-- Belajar bootstrap
